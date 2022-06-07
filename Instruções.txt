@@ -1,0 +1,13 @@
+* git clone + caminho no git					// Clonagem do git
+* git push <remote> --force					// Força transmissão do push, envia commits e objetos internos
+* git commit -m "Descrição"					// Envia commit
+* git add .							// Adiciona todos os arquivos do diretório
+* git remote add origin "Caminho"				// Adiciona um novo remoto
+* git config --global user.email " Email "			// Configura email
+* git config --global user.name " Nome "			// Configura nome
+
+
+
+
+
+
